@@ -1,0 +1,99 @@
+{
+  "name": "Nguyen Huu Trong",
+  "gender": "Male",
+  "birthday": "15/10/2003",
+  "phone": "0947418172",
+  "email": "trongnh2003@gmail.com",
+  "address": "15 Le Quy Don, Hai Chau, Da Nang",
+  "loyaltycard": 3,
+  "mypoints": 50000,
+  "myorders": [
+    {
+      "type": "ongoing",
+      "list": [
+        {
+          "id": 1,
+          "drinkID": 42,
+          "name": "Vanilla Cappuccino",
+          "photo": "vanilla-cappuccino.jpg",
+          "ice": 75,
+          "sugar": 75,
+          "size": 2,
+          "type": "coffee",
+          "price": 4.75,
+          "address": "15 Le Quy Don, Hai Chau, Da Nang",
+          "quantity": 1,
+          "point": 238,
+          "requiredPoint": 2731
+        }
+      ]
+    },
+    {
+      "type": "history",
+      "list": [
+        {
+          "id": 1,
+          "drinkID": 42,
+          "name": "Vanilla Cappuccino",
+          "photo": "vanilla-cappuccino.jpg",
+          "ice": 75,
+          "sugar": 75,
+          "size": 2,
+          "type": "coffee",
+          "price": 4.75,
+          "address": "15 Le Quy Don, Hai Chau, Da Nang",
+          "quantity": 1,
+          "point": 238,
+          "requiredPoint": 2731
+        },
+        {
+          "id": 2,
+          "drinkID": 41,
+          "name": "Hazelnut Latte",
+          "photo": "hazelnut-latte.jpg",
+          "ice": 50,
+          "sugar": 75,
+          "size": 2,
+          "type": "coffee",
+          "price": 5.25,
+          "address": "15 Le Quy Don, Hai Chau, Da Nang",
+          "quantity": 1,
+          "point": 263,
+          "requiredPoint": 3019
+        }
+      ]
+    }
+  ],
+  "mycart": [
+    {
+      "id": 1,
+      "drinkID": 42,
+      "name": "Vanilla Cappuccino",
+      "photo": "vanilla-cappuccino.jpg",
+      "ice": 75,
+      "sugar": 75,
+      "size": 2,
+      "type": "coffee",
+      "price": 4.75,
+      "address": "15 Le Quy Don, Hai Chau, Da Nang",
+      "quantity": 1,
+      "point": 238,
+      "requiredPoint": 2731
+    },
+    {
+      "id": 2,
+      "drinkID": 41,
+      "name": "Hazelnut Latte",
+      "photo": "hazelnut-latte.jpg",
+      "ice": 50,
+      "sugar": 75,
+      "size": 2,
+      "type": "coffee",
+      "price": 5.25,
+      "address": "15 Le Quy Don, Hai Chau, Da Nang",
+      "quantity": 1,
+      "point": 263,
+      "requiredPoint": 3019
+    }
+  ]
+}
